@@ -1,0 +1,33 @@
+.red {
+	font-size: 26px;
+	color: red;
+}
+.blue {
+	font-size: 19px;
+	color: blue;
+}
+.border {
+	font-size: 20px;
+	border: 5px solid black;
+}
+.italic{
+	font-size: 23px;
+	color: darkgreen;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.text{
+text-decoration: line-through;
+text-shadow: 1px 1px  2px #000;
+}
+.ident{
+	font-weight: 700;
+	font-size: 23px;
+	color: rgb(126, 126, 91);
+	text-indent: 55px;
+}
+.text-2{
+color: lime;
+font-size: 30px;
+letter-spacing: 30px;
+}
